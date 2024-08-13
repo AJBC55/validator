@@ -1,0 +1,1 @@
+This package is to validate struct values in  golang
